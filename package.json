@@ -1,0 +1,26 @@
+{
+  "name": "crud-sample-app",
+  "version": "1.0.0",
+  "description": "RESTful Inventory App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanAlbino/CRUD-Sample-App.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "Ivan Albino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanAlbino/CRUD-Sample-App/issues"
+  },
+  "homepage": "https://github.com/ivanAlbino/CRUD-Sample-App#readme"
+}
